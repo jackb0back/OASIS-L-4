@@ -1,0 +1,2 @@
+
+document.getElementById('apps').innerHTML += `<button class="btn" onmouseover="DES('<h1>test</h1><br><p>delete this app</p>s') "onclick='window.open( "","_blank","toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=1000,height=500")'>TEST</button>`;
