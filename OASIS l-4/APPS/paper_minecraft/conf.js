@@ -1,0 +1,2 @@
+
+document.getElementById('apps').innerHTML += `<button class="btn"   onmouseover="DES('<h1>paper minecraft</h1><br><p>2d minecraft clone made in scratch</p>')"     onclick='window.open( "APPS/paper_minecraft/game.html","_blank","toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=1000,height=500")'>paper minecraft</button>`;
